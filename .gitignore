@@ -5,3 +5,4 @@ log/*
 process_data/*
 result/ratebeer_500_pos/*
 result/tripadvisor_500_pos/*
+!.gitignore
