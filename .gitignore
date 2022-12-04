@@ -3,4 +3,5 @@ data_postprocess/*
 graph_data/*
 log/*
 process_data/*
-result/*
+result/ratebeer_500_pos/*
+result/tripadvisor_500_pos/*
