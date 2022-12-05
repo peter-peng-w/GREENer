@@ -1,2 +1,4 @@
 *
+!compute_bleu.sh
 !.gitignore
+!multi-bleu.perl

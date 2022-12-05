@@ -1,0 +1,1 @@
+perl multi-bleu.perl "/path/to/eval/result/reference.txt" < "/path/to/eval/result/hypothesis.txt"
